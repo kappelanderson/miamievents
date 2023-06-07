@@ -2,6 +2,8 @@
 
 O Miami Events é um projeto desenvolvido em Laravel e PHP com o objetivo de informar os eventos próximos de Miami. Os usuários cadastrados podem confirmar presença em eventos existentes e também criar novos eventos.
 
+## LIVE: 
+
 ## Requisitos
 
 - PHP 7.4 ou superior
